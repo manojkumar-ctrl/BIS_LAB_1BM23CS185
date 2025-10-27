@@ -1,0 +1,16 @@
+Converged after 8 iterations.
+Cost Grid (each cell's movement cost):
+[[6 1 4 4 8]
+ [4 6 3 5 8]
+ [7 9 9 2 7]
+ [8 8 9 2 6]
+ [9 5 1 9 8]]
+
+Shortest Distance to Goal (Parallel Cellular Computation):
+[[ 0.  1.  5.  9. 17.]
+ [ 4.  7.  8. 10. 18.]
+ [11. 16. 17. 12. 19.]
+ [19. 20. 19. 14. 20.]
+ [28. 25. 20. 23. 28.]]
+
+Estimated shortest distance from start to goal: 28.00
